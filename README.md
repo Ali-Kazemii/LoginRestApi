@@ -1,6 +1,6 @@
 # login_rest_api
 
-A new Flutter project.
+A Flutter Project with Restful Api
 
 ## Getting Started
 
